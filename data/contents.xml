@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contents>
   <content>
-    <id>f1768689030140</id>
-    <classId>c1768521104125</classId>
-    <name>mon_cours-1.pdf</name>
-    <path>/uploads/1768689030098-327898877-mon_cours-1.pdf</path>
-    <mimetype>application/pdf</mimetype>
-    <uploadedBy>u1</uploadedBy>
-    <uploadDate>2026-01-17T22:30:30.140Z</uploadDate>
-  </content>
-  <content>
-    <id>f1768694510749</id>
-    <classId>c1768521104125</classId>
-    <name>prd_plateforme_educative_xml_xslt.md</name>
-    <path>/uploads/1768694510740-391563718-prd_plateforme_educative_xml_xslt.md</path>
-    <mimetype>application/octet-stream</mimetype>
-    <uploadedBy>u1</uploadedBy>
-    <uploadDate>2026-01-18T00:01:50.749Z</uploadDate>
-  </content>
-  <content>
-    <id>f1768701444936</id>
-    <classId>c1768701028381</classId>
-    <name>mon_cours-1.pdf</name>
-    <path>/uploads/1768701444902-694566261-mon_cours-1.pdf</path>
-    <mimetype>application/pdf</mimetype>
-    <uploadedBy>u1</uploadedBy>
-    <uploadDate>2026-01-18T01:57:24.936Z</uploadDate>
-  </content>
+   
 </contents>

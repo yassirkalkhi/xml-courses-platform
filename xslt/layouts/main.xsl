@@ -25,6 +25,10 @@
       </div>
       <div class="header-right">
         <select class="lang-select" onchange="changeLang(this.value)">
+          <option value="en">
+            <xsl:if test="/root/lang = 'en'"><xsl:attribute name="selected">selected</xsl:attribute></xsl:if>
+            English
+          </option>
           <option value="fr">
             <xsl:if test="/root/lang = 'fr'"><xsl:attribute name="selected">selected</xsl:attribute></xsl:if>
             Français

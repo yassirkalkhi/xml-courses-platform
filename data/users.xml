@@ -25,28 +25,6 @@
     <language>ar</language>
     <classId>c1</classId>
   </user>
-  <user>
-    <id>u1768699557408</id>
-    <email>yasserkalkhi@icloud.com</email>
-    <passwordHash>$2b$10$E5rJ0jagRCQiun/FFmsh8uDZYtbpsctNm73NerrZJHnFCXluHzE/u</passwordHash>
-    <role>student</role>
-    <name>yasser</name>
-    <language>fr</language>
-  </user>
-  <user>
-    <id>u1768700186673</id>
-    <email>yasserkalkhi@gmail.com</email>
-    <passwordHash>$2b$10$.qQjkchuDn5jvp7VUn6./e3WTvvNgSgm3V7iLWNRh/546evsTugMS</passwordHash>
-    <role>student</role>
-    <name>Yassir kalkhi</name>
-    <language>fr</language>
-  </user>
-  <user>
-    <id>u1768701016713</id>
-    <email>mohammed@gmail.com</email>
-    <passwordHash>$2b$10$mALhxeKpaQHQPKR2SAv9YucG1ioiCIrQhHCjYuMvhCL6me2kyCpwG</passwordHash>
-    <role>student</role>
-    <name>test user</name>
-    <language>fr</language>
-  </user>
+ 
+ 
 </users>
