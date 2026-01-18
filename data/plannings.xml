@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plannings>
+  <planning>
+    <id>e1768693780846</id>
+    <classId>c1768521104125</classId>
+    <type>TP</type>
+    <date>2026-01-06</date>
+    <time>12:00</time>
+    <room>Atr 1</room>
+  </planning>
+  <planning>
+    <id>e1768694492182</id>
+    <classId>c1768521104125</classId>
+    <type>TP</type>
+    <date>2027-11-11</date>
+    <time>12:01</time>
+    <room>Lab 1</room>
+  </planning>
+  <planning>
+    <id>e1768699187051</id>
+    <classId>c1768521104125</classId>
+    <type>TP</type>
+    <date>2026-01-22</date>
+    <time>01:12</time>
+    <room>Lab2</room>
+  </planning>
+  <planning>
+    <id>e1768699373181</id>
+    <classId>c1768521104125</classId>
+    <type>TP</type>
+    <date>2026-01-13</date>
+    <time>12:09</time>
+    <room>Lab 3</room>
+  </planning>
+  <planning>
+    <id>e1768699466032</id>
+    <classId>c1768521104125</classId>
+    <type>Exam</type>
+    <date>2026-01-13</date>
+    <time>12:12</time>
+    <room>Lab 4</room>
+  </planning>
+  <planning>
+    <id>e1768700003606</id>
+    <classId>c1768699953964</classId>
+    <type>TP</type>
+    <date>2026-01-13</date>
+    <time>12:01</time>
+    <room>Lab 1</room>
+  </planning>
+  <planning>
+    <id>e1768700134284</id>
+    <classId>c1768699953964</classId>
+    <type>Exam</type>
+    <date>2026-01-12</date>
+    <time>12:12</time>
+    <room>Atr 2</room>
+  </planning>
+  <planning>
+    <id>e1768700219531</id>
+    <classId>c1768699953964</classId>
+    <type>Exam</type>
+    <date>2026-11-13</date>
+    <time>12:12</time>
+    <room>Atr 3</room>
+  </planning>
+  <planning>
+    <id>e1768701069789</id>
+    <classId>c1768701028381</classId>
+    <type>TP</type>
+    <date>2026-01-30</date>
+    <time>12:12</time>
+    <room>TEST LAB</room>
+  </planning>
+  <planning>
+    <id>e1768701608056</id>
+    <classId>c1768521104125</classId>
+    <type>Exam</type>
+    <date>2026-01-30</date>
+    <time>11:01</time>
+    <room>Attrium 1</room>
+  </planning>
+  <planning>
+    <id>e1768701642360</id>
+    <classId>c1768701028381</classId>
+    <type>Exam</type>
+    <date>2026-01-30</date>
+    <time>12:12</time>
+    <room>Lab</room>
+  </planning>
+</plannings>

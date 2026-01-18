@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="classes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="class" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:string"/>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="year" type="xs:integer"/>
+              <xs:element name="semester" type="xs:string"/>
+              <xs:element name="teacherIds">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="teacherId" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="studentIds">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="studentId" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:key name="classKey">
+      <xs:selector xpath="class"/>
+      <xs:field xpath="id"/>
+    </xs:key>
+  </xs:element>
+</xs:schema>

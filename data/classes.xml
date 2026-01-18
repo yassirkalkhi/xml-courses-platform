@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+  <class>
+    <id>c1768521104125</id>
+    <name>Language XML</name>
+    <year>1</year>
+    <semester>S1</semester>
+    <teacherIds>
+      <teacherId>u2</teacherId>
+    </teacherIds>
+    <studentIds>
+      <studentId>u1768687027898</studentId>
+    </studentIds>
+  </class>
+  <class>
+    <id>c1768699953964</id>
+    <name>POO PHP</name>
+    <year>1</year>
+    <semester>S1</semester>
+    <teacherIds>
+      <teacherId>u2</teacherId>
+    </teacherIds>
+    <studentIds>
+      <studentId>u1768700186673</studentId>
+    </studentIds>
+  </class>
+  <class>
+    <id>c1768701028381</id>
+    <name>TEST Class</name>
+    <year>1</year>
+    <semester>S1</semester>
+    <teacherIds>
+      <teacherId>u2</teacherId>
+    </teacherIds>
+    <studentIds>
+      <studentId>u1768700186673</studentId>
+      <studentId>u1768701016713</studentId>
+    </studentIds>
+  </class>
+</classes>

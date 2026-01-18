@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="plannings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="planning" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:string"/>
+              <xs:element name="classId" type="xs:string"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="date" type="xs:string"/>
+              <xs:element name="time" type="xs:string"/>
+              <xs:element name="room" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:key name="planningKey">
+      <xs:selector xpath="planning"/>
+      <xs:field xpath="id"/>
+    </xs:key>
+  </xs:element>
+</xs:schema>

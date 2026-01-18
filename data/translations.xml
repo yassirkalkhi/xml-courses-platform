@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <label key="login">
+    <fr>Connexion</fr>
+    <ar>تسجيل الدخول</ar>
+  </label>
+  <label key="email">
+    <fr>Email</fr>
+    <ar>البريد الإلكتروني</ar>
+  </label>
+  <label key="password">
+    <fr>Mot de passe</fr>
+    <ar>كلمة المرور</ar>
+  </label>
+  <label key="submit">
+    <fr>Envoyer</fr>
+    <ar>إرسال</ar>
+  </label>
+  <label key="logout">
+    <fr>Déconnexion</fr>
+    <ar>تسجيل الخروج</ar>
+  </label>
+  <label key="dashboard">
+    <fr>Tableau de bord</fr>
+    <ar>لوحة القيادة</ar>
+  </label>
+  <label key="users">
+    <fr>Utilisateurs</fr>
+    <ar>المستخدمين</ar>
+  </label>
+  <label key="classes">
+    <en>Classes</en>
+    <fr>Classes</fr>
+    <ar>الفصول</ar>
+  </label>
+  <label key="create_class">
+    <en>Create Class</en>
+    <fr>Créer une Classe</fr>
+    <ar>إنشاء فصل</ar>
+  </label>
+  <label key="role">
+    <fr>Rôle</fr>
+    <ar>الدور</ar>
+  </label>
+  <label key="name">
+    <fr>Nom</fr>
+    <ar>الاسم</ar>
+  </label>
+  <label key="welcome">
+    <fr>Bienvenue</fr>
+    <ar>مرحباً</ar>
+  </label>
+  <label key="error_invalid_credentials">
+    <fr>Email ou mot de passe incorrect</fr>
+    <ar>البريد الإلكتروني أو كلمة المرور غير صحيحة</ar>
+  </label>
+  <label key="error_user_not_found">
+    <fr>Utilisateur non trouvé</fr>
+    <ar>المستخدم غير موجود</ar>
+  </label>
+  <label key="error_forbidden">
+    <fr>Accès interdit</fr>
+    <ar>الدخول ممنوع</ar>
+  </label>
+  <label key="upload_new_content">
+    <en>Upload New Content</en>
+    <fr>Télécharger un nouveau contenu</fr>
+    <ar>تحميل محتوى جديد</ar>
+  </label>
+  <label key="resources">
+    <en>Resources</en>
+    <fr>Ressources</fr>
+    <ar>الموارد</ar>
+  </label>
+  <label key="file_name">
+    <en>File Name</en>
+    <fr>Nom du fichier</fr>
+    <ar>اسم الملف</ar>
+  </label>
+  <label key="type">
+    <en>Type</en>
+    <fr>Type</fr>
+    <ar>النوع</ar>
+  </label>
+  <label key="uploaded_by">
+    <en>Uploaded By</en>
+    <fr>Téléchargé par</fr>
+    <ar>تم التحميل بواسطة</ar>
+  </label>
+  <label key="date">
+    <en>Date</en>
+    <fr>Date</fr>
+    <ar>التاريخ</ar>
+  </label>
+  <label key="action">
+    <en>Action</en>
+    <fr>Action</fr>
+    <ar>إجراء</ar>
+  </label>
+  <label key="download">
+    <en>Download</en>
+    <fr>Télécharger</fr>
+    <ar>تحميل</ar>
+  </label>
+  <label key="assign_teacher">
+    <en>Assign Teacher</en>
+    <fr>Assigner un enseignant</fr>
+    <ar>تعيين معلم</ar>
+  </label>
+  <label key="select_teacher">
+    <en>-- Select Teacher --</en>
+    <fr>-- Sélectionner un enseignant --</fr>
+    <ar>-- اختر معلماً --</ar>
+  </label>
+  <label key="save_changes">
+    <en>Save Changes</en>
+    <fr>Enregistrer les modifications</fr>
+    <ar>حفظ التغييرات</ar>
+  </label>
+  <label key="cancel">
+    <en>Cancel</en>
+    <fr>Annuler</fr>
+    <ar>إلغاء</ar>
+  </label>
+  <label key="year">
+    <en>Year</en>
+    <fr>Année</fr>
+    <ar>السنة</ar>
+  </label>
+  <label key="semester">
+    <en>Semester</en>
+    <fr>Semestre</fr>
+    <ar>الفصل الدراسي</ar>
+  </label>
+  <label key="1st_year">
+    <en>1st Year</en>
+    <fr>1ère Année</fr>
+    <ar>السنة الأولى</ar>
+  </label>
+  <label key="2nd_year">
+    <en>2nd Year</en>
+    <fr>2ème Année</fr>
+    <ar>السنة الثانية</ar>
+  </label>
+  <label key="3rd_year">
+    <en>3rd Year</en>
+    <fr>3ème Année</fr>
+    <ar>السنة الثالثة</ar>
+  </label>
+  <label key="manage_users">
+    <en>Manage Users</en>
+    <fr>Gérer les utilisateurs</fr>
+    <ar>إدارة المستخدمين</ar>
+  </label>
+  <label key="manage_modules">
+    <en>Manage Classes</en>
+    <fr>Gérer les Classes</fr>
+    <ar>إدارة الفصول</ar>
+  </label>
+  <label key="quick_actions">
+    <en>Quick Actions</en>
+    <fr>Actions rapides</fr>
+    <ar>إجراءات سريعة</ar>
+  </label>
+  <label key="total_users">
+    <en>Total Users</en>
+    <fr>Utilisateurs total</fr>
+    <ar>إجمالي المستخدمين</ar>
+  </label>
+  <label key="total_modules">
+    <en>Total Classes</en>
+    <fr>Total des Classes</fr>
+    <ar>إجمالي الفصول</ar>
+  </label>
+  <label key="files">
+   <en>Files</en>
+   <fr>Fichiers</fr>
+   <ar>ملفات</ar>
+  </label>
+  <label key="view_resources">
+   <en>Resources</en>
+   <fr>Ressources</fr>
+   <ar>الموارد</ar>
+  </label>
+  <label key="view_planning">
+   <en>Planning</en>
+   <fr>Planning</fr>
+   <ar>التخطيط</ar>
+  </label>
+  <label key="edit">
+   <en>Edit</en>
+   <fr>Modifier</fr>
+   <ar>تعديل</ar>
+  </label>
+  <label key="delete">
+   <en>Delete</en>
+   <fr>Supprimer</fr>
+   <ar>حذف</ar>
+  </label>
+  <label key="are_you_sure">
+   <en>Are you sure?</en>
+   <fr>Êtes-vous sûr?</fr>
+   <ar>هل أنت متأكد؟</ar>
+  </label>
+  <label key="back_to_list">
+   <en>Back to List</en>
+   <fr>Retour à la liste</fr>
+   <ar>العودة للقائمة</ar>
+  </label>
+  <label key="assign_classes">
+   <en>Assign Classes</en>
+   <fr>Assigner des Classes</fr>
+   <ar>تعيين الفصول</ar>
+  </label>
+  <label key="assign">
+   <en>Assign</en>
+   <fr>Assigner</fr>
+   <ar>تعيين</ar>
+  </label>
+  <label key="update_assignments">
+   <en>Update Assignments</en>
+   <fr>Mettre à jour les assignations</fr>
+   <ar>تحديث التعيينات</ar>
+  </label>
+  <label key="edit_class">
+    <en>Edit Class</en>
+    <fr>Modifier la Classe</fr>
+    <ar>تعديل الفصل</ar>
+  </label>
+  <label key="create_user">
+    <en>Create User</en>
+    <fr>Créer un utilisateur</fr>
+    <ar>إنشاء مستخدم</ar>
+  </label>
+  <label key="edit_user">
+    <en>Edit User</en>
+    <fr>Modifier l'utilisateur</fr>
+    <ar>تعديل المستخدم</ar>
+  </label>
+  <label key="language">
+    <en>Language</en>
+    <fr>Langue</fr>
+    <ar>اللغة</ar>
+  </label>
+  <label key="assign_class_student">
+    <en>Assign Students</en>
+    <fr>Assigner des étudiants</fr>
+    <ar>تعيين الطلاب</ar>
+  </label>
+  <label key="upload_error">
+    <en>Upload failed</en>
+    <fr>Échec du téléchargement</fr>
+    <ar>فشل التحميل</ar>
+  </label>
+  <label key="upload_new_content">
+    <en>Upload New Content</en>
+    <fr>Télécharger un nouveau contenu</fr>
+    <ar>تحميل محتوى جديد</ar>
+  </label>
+  <label key="participants">
+    <en>Participants</en>
+    <fr>Participants</fr>
+    <ar>المشاركين</ar>
+  </label>
+  <label key="back_to_details">
+    <en>Back to Details</en>
+    <fr>Retour aux détails</fr>
+    <ar>عودة للتفاصيل</ar>
+  </label>
+  <label key="back_to_classes">
+    <en>Back to Classes</en>
+    <fr>Retour aux Classes</fr>
+    <ar>عودة للفصول</ar>
+  </label>
+  <label key="recent_classes">
+    <en>Recent Classes</en>
+    <fr>Classes Récentes</fr>
+    <ar>الفصول الحديثة</ar>
+  </label>
+  <label key="recent_students">
+    <en>Recent Students</en>
+    <fr>Étudiants Récents</fr>
+    <ar>الطلاب الجدد</ar>
+  </label>
+  <label key="planning">
+    <en>Planning</en>
+    <fr>Planning</fr>
+    <ar>التخطيط</ar>
+  </label>
+  <label key="type">
+    <en>Type</en>
+    <fr>Type</fr>
+    <ar>النوع</ar>
+  </label>
+  <label key="room">
+    <en>Room</en>
+    <fr>Salle</fr>
+    <ar>القاعة</ar>
+  </label>
+  <label key="add_event">
+    <en>Add Event</en>
+    <fr>Ajouter un événement</fr>
+    <ar>إضافة حدث</ar>
+  </label>
+  <label key="tp">
+    <en>TP</en>
+    <fr>TP</fr>
+    <ar>حصة تطبيقية</ar>
+  </label>
+  <label key="exam">
+    <en>Exam</en>
+    <fr>Examen</fr>
+    <ar>امتحان</ar>
+  </label>
+  <label key="edit_planning">
+    <en>Edit Planning</en>
+    <fr>Modifier le Planning</fr>
+    <ar>تعديل التخطيط</ar>
+  </label>
+
+  <label key="total_students">
+    <en>Total Students</en>
+    <fr>Étudiants Totaux</fr>
+    <ar>إجمالي الطلاب</ar>
+  </label>
+  <label key="upcoming_planning">
+    <en>Upcoming Planning</en>
+    <fr>Planning à venir</fr>
+    <ar>التخطيط القادم</ar>
+  </label>
+  <label key="my_classes">
+    <en>My Classes</en>
+    <fr>Mes Classes</fr>
+    <ar>فصولي</ar>
+  </label>
+  <label key="student_count">
+    <en>Student Count</en>
+    <fr>Nombre d'étudiants</fr>
+    <ar>عدد الطلاب</ar>
+  </label>
+  <label key="email_new_event_subject">
+    <en>New Planning Event: {type} for {class}</en>
+    <fr>Nouvel événement de planning : {type} pour {class}</fr>
+    <ar>حدث تخطيط جديد: {type} لـ {class}</ar>
+  </label>
+  <label key="email_new_event_title">
+    <en>New Event Added</en>
+    <fr>Nouvel événement ajouté</fr>
+    <ar>تم إضافة حدث جديد</ar>
+  </label>
+  <label key="email_new_event_body">
+    <en>A new {type} has been scheduled for your class {class}.</en>
+    <fr>Un nouveau {type} a été programmé pour votre classe {class}.</fr>
+    <ar>تم جدولة {type} جديد لفصلك {class}.</ar>
+  </label>
+</translations>

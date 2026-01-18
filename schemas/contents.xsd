@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="contents">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="content" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:string"/>
+              <xs:element name="classId" type="xs:string"/>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="path" type="xs:string"/>
+              <xs:element name="mimetype" type="xs:string"/>
+              <xs:element name="uploadedBy" type="xs:string"/>
+              <xs:element name="uploadDate" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:key name="contentKey">
+      <xs:selector xpath="content"/>
+      <xs:field xpath="id"/>
+    </xs:key>
+  </xs:element>
+</xs:schema>
